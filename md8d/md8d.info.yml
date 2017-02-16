@@ -1,0 +1,15 @@
+name: Mastering Drupal 8 Development Theme
+type: theme
+description: 'A basic custom theme for the Mastering Drupal 8 Development class'
+core: 8.x
+
+base theme: classy
+
+regions:
+  user_menu: 'User Menu'
+  header: Header
+  primary_menu: 'Primary Menu'
+  help: Help
+  content: 'Main Content'
+  sidebar_first: Sidebar
+  footer: Footer
