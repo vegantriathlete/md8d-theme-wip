@@ -5,6 +5,9 @@ core: 8.x
 
 base theme: classy
 
+libraries:
+  - md8d/global-styling
+
 regions:
   user_menu: 'User Menu'
   header: Header
